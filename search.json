@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "II CIMCYC Workshop on computational modelling of behavioral data (CMB)",
+    "section": "",
+    "text": "June 3-4, 2025\n\n\nMind, Brain, and Behavior research center (CIMCYC), University of Granada Spain\nSupported by SEPNECA, SEPEX, and CIMCYC\nAfter two decades of success of neuroimaging techniques, we are witnessing a growing popularity of achieving a better characterization of behavioral data in psychological experiments. Such characterization tries to offer a greater understanding of the effects of our manipulations on behavior (and the brain), beyond the important but somewhat limited insight we can gain from looking at mean reaction times and error rates. The II Workshop on Computational Modelling of Behavioral Data (CMB) builds upon the success of its inaugural edition, which brought together researchers from diverse backgrounds and facilitated the exchange of cutting-edge knowledge in computational modeling of behavioral data. This second edition aims to further establish the workshop as a key platform for early-career researchers seeking to develop expertise in computational modeling techniques within cognitive science.\n\n\nTentative schedule\n\n\n\n\n\n\n\n\n\n\nDay\nTime\nActivity\nSpeaker\nMaterial\n\n\n\n\nJune 5\n9:00-9:30\nRegistration and opening words\n\n\n\n\n\n9:30-10:00\nIntroduction to computational models on decision making\n\n\n\n\n\n10:00-11:00\nDrift-diffusion models\n\n\n\n\n\n11:00-11:30\nCoffee break\n\n\n\n\n\n11:30-13:30\nHands-on session on drift-diffusion models\n\n\n\n\n\n13:30-15:00\nLunch break\n\n\n\n\n\n15:00-15:30\nIntroduction to computational models on reinforcement learning (RL)\n\n\n\n\n\n15:30-16:30\nRL theory\n\n\n\n\n\n16:30-17:00\nCoffee break\n\n\n\n\n\n17:00-19:00\nHands-on session on RL\n\n\n\n\nJune 6\n9:00-9:30\nWelcome and recap\n\n\n\n\n\n9:30-11:00\nIntroduction to Deep Neural Networks (DNNs)\n\n\n\n\n\n11:00-11:30\nCoffee break\n\n\n\n\n\n11:30-13:30\nHands-on session on DNNs\n\n\n\n\n\n13:30-14:00\nClosing remarks\n\n\n\n\n\n\n\nApplications\n\n\n\n\n\n\nImportant\n\n\n\nDEADLINE: May 1, 2025\n\n\nEnter the application form here"
+  },
+  {
+    "objectID": "speakers.html",
+    "href": "speakers.html",
+    "title": "Faculty",
+    "section": "",
+    "text": "University of Toulouse\nMehdi’s research focuses on studying the flexibility of perceptual and mnesic representations at behavioral and neural levels, and the cognitive control mechanisms that allow to flexibly use these information to perform various tasks. I tackle these questions using psychophysical protocols, computational modelling, and neuroimaging (EEG & fMRI).\nMore info\n\n\n\n\n\n\nTilburg University\nFrancesco has always been passionate about statistical models and I recently developed a genuine interest in computational models. I am currently using computational, behavioural, and neuroimaging techniques to investigate the relationship between extracting regularities in the environment and encoding distinct episodes.\nMore info\n\n\n\n\n\n\nUniversity of Granada\nJuan Eloy’s research activity employs machine learning and pattern recognition in the early prediction of neurological disorders and in the study of the brain function. He currently works as a postdoctoral researcher at CITIC, University of Granada\nMore info"
+  },
+  {
+    "objectID": "speakers.html#speakers",
+    "href": "speakers.html#speakers",
+    "title": "Faculty",
+    "section": "",
+    "text": "University of Toulouse\nMehdi’s research focuses on studying the flexibility of perceptual and mnesic representations at behavioral and neural levels, and the cognitive control mechanisms that allow to flexibly use these information to perform various tasks. I tackle these questions using psychophysical protocols, computational modelling, and neuroimaging (EEG & fMRI).\nMore info\n\n\n\n\n\n\nTilburg University\nFrancesco has always been passionate about statistical models and I recently developed a genuine interest in computational models. I am currently using computational, behavioural, and neuroimaging techniques to investigate the relationship between extracting regularities in the environment and encoding distinct episodes.\nMore info\n\n\n\n\n\n\nUniversity of Granada\nJuan Eloy’s research activity employs machine learning and pattern recognition in the early prediction of neurological disorders and in the study of the brain function. He currently works as a postdoctoral researcher at CITIC, University of Granada\nMore info"
+  },
+  {
+    "objectID": "speakers.html#organizers",
+    "href": "speakers.html#organizers",
+    "title": "Faculty",
+    "section": "Organizers",
+    "text": "Organizers\n\n\n\n\nJavier Ortiz-Tudela\nUniversity of Granada\nMore info\n\n\n\n\n\nCarlos González-García\nUniversity of Granada\nMore info"
+  }
+]
