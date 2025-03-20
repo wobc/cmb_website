@@ -1,0 +1,38 @@
+---
+title: "II CIMCYC Workshop on computational modelling of behavioral data (CMB)"
+---
+
+### June 3-4, 2025
+### Mind, Brain, and Behavior research center (CIMCYC), University of Granada Spain
+*Supported by SEPNECA, SEPEX, and CIMCYC*
+
+After two decades of success of neuroimaging techniques, we are witnessing a growing popularity of achieving a better characterization of behavioral data in psychological experiments. Such characterization tries to offer a greater understanding of the effects of our manipulations on behavior (and the brain), beyond the important but somewhat limited insight we can gain from looking at mean reaction times and error rates. The II Workshop on Computational Modelling of Behavioral Data (CMB) builds upon the success of its inaugural edition, which brought together researchers from diverse backgrounds and facilitated the exchange of cutting-edge knowledge in computational modeling of behavioral data. This second edition aims to further establish the workshop as a key platform for early-career researchers seeking to develop expertise in computational modeling techniques within cognitive science.
+
+# Tentative schedule
+
+| **Day**    | **Time**    | **Activity**                                 | **Speaker** | **Material** |
+|------------|-------------|----------------------------------------------|-------------|--------------|
+| **June 5** | 9:00-9:30   | Registration and opening words               |             |              |
+|            | 9:30-10:00  | Introduction to computational models on decision making |             |              |
+|            | 10:00-11:00 | Drift-diffusion models                       |             |              |
+|            | 11:00-11:30 | Coffee break                                 |             |              |
+|            | 11:30-13:30 | Hands-on session on drift-diffusion models   |             |              |
+|            | 13:30-15:00 | Lunch break                                  |             |              |
+|            | 15:00-15:30 | Introduction to computational models on reinforcement learning (RL) |             |              |
+|            | 15:30-16:30 | RL theory                                    |             |              |
+|            | 16:30-17:00 | Coffee break                                 |             |              |
+|            | 17:00-19:00 | Hands-on session on RL                       |             |              |
+| **June 6** | 9:00-9:30   | Welcome and recap                            |             |              |
+|            | 9:30-11:00  | Introduction to Deep Neural Networks (DNNs)  |             |              |
+|            | 11:00-11:30 | Coffee break                                 |             |              |
+|            | 11:30-13:30 | Hands-on session on DNNs                     |             |              |
+|            | 13:30-14:00 | Closing remarks                              |             |              |
+
+# Applications
+
+:::{.callout-important}
+
+**DEADLINE:**  May 1, 2025
+
+:::
+Enter the application form here

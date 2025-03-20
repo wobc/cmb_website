@@ -1,0 +1,70 @@
+---
+title: "Faculty"
+---
+
+## Speakers
+
+::: {.grid}
+
+::: {.g-col-4}
+![](https://mehdisenoussi.github.io/profile.jpg){width=150px}
+
+### Mehdi Senoussi
+**University of Toulouse**
+
+Mehdi's research focuses on studying the flexibility of perceptual and mnesic representations at behavioral and neural levels, and the cognitive control mechanisms that allow to flexibly use these information to perform various tasks. I tackle these questions using psychophysical protocols, computational modelling, and neuroimaging (EEG & fMRI).
+
+[More info](https://mehdisenoussi.github.io/about/)
+:::
+
+::: {.g-col-4}
+![](https://avatars.githubusercontent.com/u/33233584?v=4){width=150px}
+
+### Francesco Pupillo
+**Tilburg University**
+
+Francesco has always been passionate about statistical models and I recently developed a genuine interest in computational models. I am currently using computational, behavioural, and neuroimaging techniques to investigate the relationship between extracting regularities in the environment and encoding distinct episodes.
+
+[More info](https://sites.google.com/view/francesco-pupillo/home)
+:::
+
+::: {.g-col-4}
+![](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=q9SMxVQAAAAJ&citpid=1){height=150px}
+
+### Juan E. Arco
+**University of Granada**
+
+Juan Eloy's research activity employs machine learning and pattern recognition in the early prediction of neurological disorders and
+in the study of the brain function. He currently works as a postdoctoral researcher at CITIC, University of Granada
+
+[More info](https://dasci.es/es/personal/perfil/juan-eloy-arco/)
+:::
+
+:::
+
+## Organizers
+
+::: {.grid}
+
+::: {.g-col-5}
+![](https://ortiztudela.github.io/ortiztudela/images/foto_javi.jpg){height=150px}
+
+### Javier Ortiz-Tudela
+**University of Granada**
+
+
+[More info](https://ortiztudela.github.io/ortiztudela/)
+:::
+
+::: {.g-col-5}
+![](https://gonzalezgarcia.github.io/assets/img/new_pic.webp?bd58644cb340ccb9a82633f610af403d){height=150px}
+
+### Carlos González-García
+**University of Granada**
+
+
+[More info](https://gonzalezgarcia.github.io/)
+:::
+
+
+:::
