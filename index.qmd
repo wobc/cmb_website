@@ -2,31 +2,38 @@
 title: "II CIMCYC Workshop on computational modelling of behavioral data (CMB)"
 ---
 
-### June 9-10, 2025
-### Mind, Brain, and Behavior research center (CIMCYC), University of Granada Spain
-*Supported by SEPNECA, SEPEX, and CIMCYC*
+:::{.callout-note title="When and where?"}
+
+**June 9-10, 2025**
+
+Mind, Brain, and Behavior research center (CIMCYC), University of Granada Spain
+:::
+
 
 After two decades of success of neuroimaging techniques, we are witnessing a growing popularity of achieving a better characterization of behavioral data in psychological experiments. Such characterization tries to offer a greater understanding of the effects of our manipulations on behavior (and the brain), beyond the important but somewhat limited insight we can gain from looking at mean reaction times and error rates. The II Workshop on Computational Modelling of Behavioral Data (CMB) builds upon the success of its inaugural edition, which brought together researchers from diverse backgrounds and facilitated the exchange of cutting-edge knowledge in computational modeling of behavioral data. This second edition aims to further establish the workshop as a key platform for early-career researchers seeking to develop expertise in computational modeling techniques within cognitive science.
+
+*Supported by SEPNECA and SEPEX*
+
 
 # Tentative schedule
 
 | **Day**    | **Time**    | **Activity**                                 | **Speaker** | **Material** |
 |------------|-------------|----------------------------------------------|-------------|--------------|
-| **June 5** | 9:00-9:30   | Registration and opening words               |             |              |
-|            | 9:30-10:00  | Introduction to computational models on decision making |             |              |
-|            | 10:00-11:00 | Drift-diffusion models                       |             |              |
+| **June 9** | 9:00-9:30   | Registration and opening words               |       Carlos & Javier      |              |
+|            | 9:30-10:00  | Introduction to computational models on decision making |      Carlos       |         *coming soon*     |
+|            | 10:00-11:00 | Drift-diffusion models                       |       Mehdi      |        *coming soon*      |
 |            | 11:00-11:30 | Coffee break                                 |             |              |
-|            | 11:30-13:30 | Hands-on session on drift-diffusion models   |             |              |
+|            | 11:30-13:30 | Hands-on session on drift-diffusion models   |      Mehdi       |          *coming soon*    |
 |            | 13:30-15:00 | Lunch break                                  |             |              |
-|            | 15:00-15:30 | Introduction to computational models on reinforcement learning (RL) |             |              |
-|            | 15:30-16:30 | RL theory                                    |             |              |
+|            | 15:00-15:30 | Introduction to computational models on reinforcement learning (RL) |      Javier       |       *coming soon*       |
+|            | 15:30-16:30 | RL theory                                    |     Francesco        |        *coming soon*      |
 |            | 16:30-17:00 | Coffee break                                 |             |              |
-|            | 17:00-19:00 | Hands-on session on RL                       |             |              |
-| **June 6** | 9:00-9:30   | Welcome and recap                            |             |              |
-|            | 9:30-11:00  | Introduction to Deep Neural Networks (DNNs)  |             |              |
+|            | 17:00-19:00 | Hands-on session on RL                       |      Francesco       |         *coming soon*     |
+| **June 10** | 9:00-9:30   | Welcome and recap                            |             |              |
+|            | 9:30-11:00  | Introduction to Deep Neural Networks (DNNs)  |       Juan Eloy      |         *coming soon*     |
 |            | 11:00-11:30 | Coffee break                                 |             |              |
-|            | 11:30-13:30 | Hands-on session on DNNs                     |             |              |
-|            | 13:30-14:00 | Closing remarks                              |             |              |
+|            | 11:30-13:30 | Hands-on session on DNNs                     |       Juan Eloy      |          *coming soon*    |
+|            | 13:30-14:00 | Closing remarks                              |     Carlos & Javier       |              |
 
 # Applications
 
@@ -36,5 +43,15 @@ After two decades of success of neuroimaging techniques, we are witnessing a gro
 
 :::
 
+The workshop is open and free of charge to early-career researchers (PhD students and postdocs) member of SEPEX and/or SEPNECA.
 
-Please fill out your application in the following link
+### I am a member of SEPEX or SEPNECA
+Please fill out your application in the following link: 
+
+### I am not a member of SEPEX or SEPNECA
+Please consider joining one of the two associations. You can find more information about SEPEX [here](https://websepex.com/) and about SEPNECA [here](https://sepneca.es/).
+
+### Are any programming skills required to attend the workshop?
+No, the workshop is designed to be accessible to all early-career researchers, regardless of their programming background. However, basic knowledge of R or Python will be helpful for the hands-on sessions. As an example, if you want to check if you are ready for the hands-on sessions, take a look at the following problem and think if you could solve it in R or Python in 5/10 minutes (without ChatGPT or similar...):
+
+> Write a script that loads different .csv files corresponding to the data of different participants of your experiment. Merge them all into a dataframe. Group the data by participant and condition and calculate the mean and standard deviation of the reaction times for each participant. Plot the mean and standard deviation of the reaction times for each participant and condition. Save the plot as a .png file.
