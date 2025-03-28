@@ -23,7 +23,7 @@ Mehdi's research focuses on studying the flexibility of perceptual and mnesic re
 ### Francesco Pupillo
 **Tilburg University**
 
-Francesco has always been passionate about statistical models and I recently developed a genuine interest in computational models. I am currently using computational, behavioural, and neuroimaging techniques to investigate the relationship between extracting regularities in the environment and encoding distinct episodes.
+Francesco has always been passionate about statistical models and recently developed a genuine interest in computational models. He is currently using computational, behavioural, and neuroimaging techniques to investigate the relationship between extracting regularities in the environment and encoding distinct episodes.
 
 [More info](https://sites.google.com/view/francesco-pupillo/home)
 :::
@@ -34,8 +34,7 @@ Francesco has always been passionate about statistical models and I recently dev
 ### Juan E. Arco
 **University of Granada**
 
-Juan Eloy's research activity employs machine learning and pattern recognition in the early prediction of neurological disorders and
-in the study of the brain function. He currently works as a postdoctoral researcher at CITIC, University of Granada
+Juan Eloy's research activity employs machine learning and pattern recognition in the early prediction of neurological disorders and in the study of the brain function. He currently works as a postdoctoral researcher at CITIC, University of Granada
 
 [More info](https://dasci.es/es/personal/perfil/juan-eloy-arco/)
 :::
