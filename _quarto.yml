@@ -11,7 +11,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Registration is open** - Send your application before **1st of May 2025!**"
+    content: "**Registration is open** - [Apply here](https://forms.gle/DyJdW7J8uFJ4iPoA6) before **May 1st 2025!**"
     type: primary
     position: below-navbar
 format:
