@@ -7,12 +7,16 @@ title: "II CIMCYC Workshop on computational modelling of behavioral data (CMB)"
 **June 9-10, 2025**
 
 Mind, Brain, and Behavior research center (CIMCYC), University of Granada Spain
+
+[Apply now](https://forms.gle/DyJdW7J8uFJ4iPoA6)
 :::
 
 
 After two decades of success of neuroimaging techniques, we are witnessing a growing popularity of achieving a better characterization of behavioral data in psychological experiments. Such characterization tries to offer a greater understanding of the effects of our manipulations on behavior (and the brain), beyond the important but somewhat limited insight we can gain from looking at mean reaction times and error rates. The II Workshop on Computational Modelling of Behavioral Data (CMB) builds upon the success of its inaugural edition, which brought together researchers from diverse backgrounds and facilitated the exchange of cutting-edge knowledge in computational modeling of behavioral data. This second edition aims to further establish the workshop as a key platform for early-career researchers seeking to develop expertise in computational modeling techniques within cognitive science.
 
-For researchers from outside Granada, we're offering X travel grants thanks to the amazing support of SEPNECA and SEPEX! Please check the [application section](#applications) for more information.
+We strongly encourage applications from individuals belonging to underrepresented groups in computational modelling and non-traditional academic backgrounds.
+
+For PhD students from outside Granada, we're offering **100€ travel grants** thanks to the amazing support of SEPNECA and SEPEX! Please check the [application section](#applications) for more information.
 
 
 # Tentative schedule
@@ -39,6 +43,8 @@ For researchers from outside Granada, we're offering X travel grants thanks to t
 
 :::{.callout-important}
 
+Apply [here](https://forms.gle/DyJdW7J8uFJ4iPoA6)!
+
 **DEADLINE:**  May 1, 2025
 
 :::
@@ -48,13 +54,13 @@ The workshop is open and free of charge to early-career researchers (PhD student
 ### I am a member of SEPEX or SEPNECA
 Please fill out your application in the following link: [insert link]
 
-Also, mark whether you would like to apply for a travel grant. The travel grants will be awarded based on the need for financial support. The amount of the travel grant will depend on the number of applications received, but it is expected to be around X euros.
+Also, mark whether you would like to apply for a travel grant. The amount of the travel grant is expected to be around 100 euros.
 
 ### I am not a member of SEPEX or SEPNECA
 Please consider joining one of the two associations. You can find more information about SEPEX [here](https://websepex.com/) and about SEPNECA [here](https://sepneca.es/).
 
 ### Are any programming skills required to attend the workshop?
-No, the workshop is designed to be accessible to all early-career researchers, regardless of their programming background. However, basic knowledge of R or Python will be helpful for the hands-on sessions. As an example, if you want to check if you are ready for the hands-on sessions, take a look at the following problem and think if you could solve it in R or Python in 5/10    minutes (without ChatGPT or similar...):
+No, the workshop is designed to be accessible to all early-career researchers, regardless of their programming background. However, basic knowledge of R or Python will be helpful for the hands-on sessions. As an example, if you want to check if you are ready for the hands-on sessions, take a look at the following problem and think if you could solve it in R or Python in 10/15 minutes (without ChatGPT or similar...):
 
 > Write a script that loads different .csv files corresponding to the data of different participants of your experiment. Merge them all into a dataframe. Group the data by participant and condition and calculate the mean and standard deviation of the reaction times for each participant. Plot the mean and standard deviation of the reaction times for each participant and condition. Save the plot as a .png file.
 
