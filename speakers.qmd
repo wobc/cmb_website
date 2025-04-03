@@ -68,7 +68,7 @@ Juan Eloy's research activity employs machine learning and pattern recognition i
 ::: {.g-col-4}
 ![](https://franfrutos.github.io/source/myself_main.jpeg){height=150px}
 
-### Francisco Garre-Frutos
+### Francisco Garre-Frutos 
 **University of Granada**
 
 
