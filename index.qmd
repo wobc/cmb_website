@@ -14,7 +14,7 @@ Mind, Brain, and Behavior research center (CIMCYC), University of Granada Spain
 
 After two decades of success of neuroimaging techniques, we are witnessing a growing popularity of achieving a better characterization of behavioral data in psychological experiments. Such characterization tries to offer a greater understanding of the effects of our manipulations on behavior (and the brain), beyond the important but somewhat limited insight we can gain from looking at mean reaction times and error rates. The II Workshop on Computational Modelling of Behavioral Data (CMB) builds upon the success of its inaugural edition, which brought together researchers from diverse backgrounds and facilitated the exchange of cutting-edge knowledge in computational modeling of behavioral data. This second edition aims to further establish the workshop as a key platform for early-career researchers seeking to develop expertise in computational modeling techniques within cognitive science.
 
-For researchers from outside Granada, we're offering **100€ travel grants** thanks to the amazing support of SEPNECA and SEPEX! Please check the [application section](#applications) for more information.
+For PhD students from outside Granada, we're offering **100€ travel grants** thanks to the amazing support of SEPNECA and SEPEX! Please check the [application section](#applications) for more information.
 
 
 # Tentative schedule
