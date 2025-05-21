@@ -81,7 +81,7 @@ No, the workshop is designed to be accessible to all early-career researchers, r
 :::
 
 ::: {.g-col-2}
-![](https://cimcyc.ugr.es/sites/centros/cimcyc/public/color/ugr-67b701b5/logo.svg){width=150px}
+![](https://cimcyc.ugr.es/sites/centros/cimcyc/public/color/ugr-9b30b5ce/logo.svg){width=150px}
 
 :::
 
