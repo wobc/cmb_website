@@ -28,9 +28,9 @@ For researchers from outside Granada, we're offering **100€ travel grants** th
 |            | 11:30-13:30 | Hands-on session on drift-diffusion models   |      Mehdi       |          *coming soon*    |
 |            | 13:30-15:00 | Lunch break                                  |             |              |
 |            | 15:00-15:30 | Introduction to computational models on reinforcement learning (RL) |      Javier       |       *coming soon*       |
-|            | 15:30-16:30 | RL theory                                    |     Francesco        |        *coming soon*      |
+|            | 15:30-16:30 | RL - Basic concepts                                    |     Francesco        |        *coming soon*      |
 |            | 16:30-17:00 | Coffee break                                 |             |              |
-|            | 17:00-19:00 | Hands-on session on RL                       |      Francesco       |         *coming soon*     |
+|            | 17:00-19:00 | RL - Model fitting                      |      Francesco       |         *coming soon*     |
 | **June 10** | 9:00-9:30   | Welcome and recap                            |             |              |
 |            | 9:30-11:00  | Introduction to Deep Neural Networks (DNNs)  |       Juan Eloy      |         *coming soon*     |
 |            | 11:00-11:30 | Coffee break                                 |             |              |
