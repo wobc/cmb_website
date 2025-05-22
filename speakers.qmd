@@ -45,7 +45,7 @@ Juan Eloy's research activity employs machine learning and pattern recognition i
 
 ::: {.grid}
 
-::: {.g-col-5}
+::: {.g-col-4}
 ![](https://ortiztudela.github.io/ortiztudela/images/foto_javi.jpg){height=150px}
 
 ### Javier Ortiz-Tudela
@@ -55,7 +55,7 @@ Juan Eloy's research activity employs machine learning and pattern recognition i
 [More info](https://ortiztudela.github.io/ortiztudela/)
 :::
 
-::: {.g-col-5}
+::: {.g-col-4}
 ![](https://gonzalezgarcia.github.io/assets/img/new_pic.webp?bd58644cb340ccb9a82633f610af403d){height=150px}
 
 ### Carlos González-García
@@ -65,5 +65,14 @@ Juan Eloy's research activity employs machine learning and pattern recognition i
 [More info](https://gonzalezgarcia.github.io/)
 :::
 
+::: {.g-col-4}
+![](https://franfrutos.github.io/source/myself_main.jpeg){height=150px}
+
+### Francisco Garre-Frutos 
+**University of Granada**
+
+
+[More info](https://franfrutos.github.io/)
+:::
 
 :::
