@@ -8,12 +8,12 @@ website:
       - href: index.qmd
         text: Home
       - speakers.qmd
-  announcement: 
-    icon: info-circle
-    dismissable: true
-    content: "**Registration is open** - [Apply here](https://forms.gle/DyJdW7J8uFJ4iPoA6) before **May 1st 2025!**"
-    type: primary
-    position: below-navbar
+  # announcement: 
+  #   icon: info-circle
+  #   dismissable: true
+  #   content: "**Registration is open** - [Apply here](https://forms.gle/DyJdW7J8uFJ4iPoA6) before **May 1st 2025!**"
+  #   type: primary
+  #   position: below-navbar
 format:
   html:
     theme:
