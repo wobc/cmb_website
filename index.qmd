@@ -46,7 +46,7 @@ Applications are now closed. Thank you for your interest!
 
 :::
 
-The workshop is open and free of charge to early-career researchers (PhD students and postdocs) member of SEPEX and/or SEPNECA.
+<!-- The workshop is open and free of charge to early-career researchers (PhD students and postdocs) member of SEPEX and/or SEPNECA.
 
 ### I am a member of SEPEX or SEPNECA
 Please fill out your application [here](https://forms.gle/DyJdW7J8uFJ4iPoA6)
@@ -59,7 +59,7 @@ Please consider joining one of the two associations. You can find more informati
 ### Are any programming skills required to attend the workshop?
 No, the workshop is designed to be accessible to all early-career researchers, regardless of their programming background. However, basic knowledge of R or Python will be helpful for the hands-on sessions. As an example, if you want to check if you are ready for the hands-on sessions, take a look at the following problem and think if you could solve it in R or Python in 10/15 minutes (without ChatGPT or similar...):
 
-> Write a script that loads different .csv files corresponding to the data of different participants of your experiment. Merge them all into a dataframe. Group the data by participant and condition and calculate the mean and standard deviation of the reaction times for each participant. Plot the mean and standard deviation of the reaction times for each participant and condition. Save the plot as a .png file.
+> Write a script that loads different .csv files corresponding to the data of different participants of your experiment. Merge them all into a dataframe. Group the data by participant and condition and calculate the mean and standard deviation of the reaction times for each participant. Plot the mean and standard deviation of the reaction times for each participant and condition. Save the plot as a .png file. -->
 
 
 # Supported by:
