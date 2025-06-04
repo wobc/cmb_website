@@ -28,7 +28,7 @@ For PhD students from outside Granada, we're offering **100€ travel grants** t
 |            | 11:00-11:30 | Coffee break                                 |             |              |
 |            | 11:30-13:30 | Hands-on session on drift-diffusion models   |      Mehdi       |          *coming soon*    |
 |            | 13:30-15:00 | Lunch break                                  |             |              |
-|            | 15:00-15:30 | Introduction to computational models on reinforcement learning (RL) |      Javier       |       *coming soon*       |
+|            | 15:00-15:30 | Introduction to computational models on reinforcement learning (RL) |      Fran       |       *coming soon*       |
 |            | 15:30-16:30 | RL - Basic concepts                                    |     Francesco        |        *coming soon*      |
 |            | 16:30-17:00 | Coffee break                                 |             |              |
 |            | 17:00-19:00 | RL - Model fitting                      |      Francesco       |         *coming soon*     |
