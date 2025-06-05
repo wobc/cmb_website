@@ -22,8 +22,8 @@ For PhD students from outside Granada, we're offering **100€ travel grants** t
 
 | **Day**    | **Time**    | **Activity**                                 | **Speaker** | **Material** |
 |------------|-------------|----------------------------------------------|-------------|--------------|
-| **June 9** | 9:00-9:30   | Registration and opening words               |       Carlos & Javier      |      <a href="https://docs.google.com/presentation/d/e/2PACX-1vR1whFkkVv90zGiYf6h8NTJohlK7cZJbrJPzU55uaPvz91rrU7VOQm5AaZV8SZ1cwYE7NdZh0OA6J4I/pub?start=false&loop=false&delayms=3000" target="_blank">Slides</a>       |
-|            | 9:30-10:00  | Introduction to computational models on decision making |      Carlos       |        <a href="https://docs.google.com/presentation/d/e/2PACX-1vR1whFkkVv90zGiYf6h8NTJohlK7cZJbrJPzU55uaPvz91rrU7VOQm5AaZV8SZ1cwYE7NdZh0OA6J4I/pub?start=false&loop=false&delayms=3000#slide=id.g36137a23613_0_1" target="_blank">Slides</a>    |
+| **June 9** | 9:00-9:30   | Registration and opening words               |       Carlos & Javier      |      <a href="https://docs.google.com/presentation/d/e/2PACX-1vR1whFkkVv90zGiYf6h8NTJohlK7cZJbrJPzU55uaPvz91rrU7VOQm5AaZV8SZ1cwYE7NdZh0OA6J4I/pub?start=false&loop=false&delayms=60000" target="_blank">Slides</a>       |
+|            | 9:30-10:00  | Introduction to computational models on decision making |      Carlos       |        <a href="https://docs.google.com/presentation/d/e/2PACX-1vR1whFkkVv90zGiYf6h8NTJohlK7cZJbrJPzU55uaPvz91rrU7VOQm5AaZV8SZ1cwYE7NdZh0OA6J4I/pub?start=false&loop=false&delayms=60000#slide=id.g36137a23613_0_1" target="_blank">Slides</a>    |
 |            | 10:00-11:00 | Drift-diffusion models                       |       Mehdi      |        *coming soon*      |
 |            | 11:00-11:30 | Coffee break                                 |             |              |
 |            | 11:30-13:30 | Hands-on session on drift-diffusion models   |      Mehdi       |          *coming soon*    |
@@ -32,7 +32,7 @@ For PhD students from outside Granada, we're offering **100€ travel grants** t
 |            | 15:30-16:30 | RL - Basic concepts                                    |     Francesco        |        *coming soon*      |
 |            | 16:30-17:00 | Coffee break                                 |             |              |
 |            | 17:00-19:00 | RL - Model fitting                      |      Francesco       |         *coming soon*     |
-| **June 10** | 9:00-9:30   | Introduction to Deep Neural Networks (DNNs)                           |     Javier        |     <a href="(https://docs.google.com/presentation/d/e/2PACX-1vSdS8Wm2merZER8rhrDrO0PCKQVu-mVvO2qxjuDZCNDzA3TeP4ZUdSQoUc9tEcwVEaXT70G-atgunSP/pub?start=false&loop=false&delayms=60000)" target="_blank">Slides</a>       |
+| **June 10** | 9:00-9:30   | Introduction to Deep Neural Networks (DNNs)                           |     Javier        |     <a href="https://docs.google.com/presentation/d/e/2PACX-1vSdS8Wm2merZER8rhrDrO0PCKQVu-mVvO2qxjuDZCNDzA3TeP4ZUdSQoUc9tEcwVEaXT70G-atgunSP/pub?start=false&loop=false&delayms=60000" target="_blank">Slides</a>       |
 |            | 9:30-11:00  | DNNs  |       Juan Eloy      |         *coming soon*     |
 |            | 11:00-11:30 | Coffee break                                 |             |              |
 |            | 11:30-13:30 | Hands-on session on DNNs                     |       Juan Eloy      |          *coming soon*    |
