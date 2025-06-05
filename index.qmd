@@ -18,7 +18,7 @@ We strongly encourage applications from individuals belonging to underrepresente
 For PhD students from outside Granada, we're offering **100€ travel grants** thanks to the amazing support of SEPNECA and SEPEX! Please check the [application section](#applications) for more information.
 
 
-# Tentative schedule
+# Schedule
 
 | **Day**    | **Time**    | **Activity**                                 | **Speaker** | **Material** |
 |------------|-------------|----------------------------------------------|-------------|--------------|
@@ -37,6 +37,8 @@ For PhD students from outside Granada, we're offering **100€ travel grants** t
 |            | 11:00-11:30 | Coffee break                                 |             |              |
 |            | 11:30-13:30 | Hands-on session on DNNs                     |       Juan Eloy      |          *coming soon*    |
 |            | 13:30-14:00 | Closing remarks                              |     Carlos & Javier       |              |
+
+All materials are available on the [GitHub repository](https://github.com/wobc/cmb_website/tree/main/materials/2025) of the workshop.
 
 
 # Applications
