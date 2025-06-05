@@ -33,7 +33,7 @@ For PhD students from outside Granada, we're offering **100€ travel grants** t
 |            | 16:30-17:00 | Coffee break                                 |             |              |
 |            | 17:00-19:00 | RL - Model fitting                      |      Francesco       |         *coming soon*     |
 | **June 10** | 9:00-9:30   | Introduction to Deep Neural Networks (DNNs)                           |     Javier        |     <a href="https://docs.google.com/presentation/d/e/2PACX-1vSdS8Wm2merZER8rhrDrO0PCKQVu-mVvO2qxjuDZCNDzA3TeP4ZUdSQoUc9tEcwVEaXT70G-atgunSP/pub?start=false&loop=false&delayms=60000" target="_blank">Slides</a>       |
-|            | 9:30-11:00  | DNNs  |       Juan Eloy      |         *coming soon*     |
+|            | 9:30-11:00  | DNNs  |       Juan Eloy      |   <a href="https://github.com/wobc/cmb_website/blob/main/materials/2025/DNN/slides/DNN_python_eng.pdf" target="_blank">Slides 1</a>,   <a href="https://github.com/wobc/cmb_website/blob/main/materials/2025/DNN/slides/DNN_pytorch_eng.pdf" target="_blank">Slides 2</a> , <a href="https://github.com/wobc/cmb_website/tree/main/materials/2025/DNN/code" target="_blank">Code</a>|
 |            | 11:00-11:30 | Coffee break                                 |             |              |
 |            | 11:30-13:30 | Hands-on session on DNNs                     |       Juan Eloy      |          *coming soon*    |
 |            | 13:30-14:00 | Closing remarks                              |     Carlos & Javier       |              |
