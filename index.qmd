@@ -22,7 +22,7 @@ For PhD students from outside Granada, we're offering **100€ travel grants** t
 
 | **Day**    | **Time**    | **Activity**                                 | **Speaker** | **Material** |
 |------------|-------------|----------------------------------------------|-------------|--------------|
-| **June 9** | 9:00-9:30   | Registration and opening words               |       Carlos & Javier      |              |
+| **June 9** | 9:00-9:30   | Registration and opening words               |       Carlos & Javier      |      [slides](https://docs.google.com/presentation/d/e/2PACX-1vR1whFkkVv90zGiYf6h8NTJohlK7cZJbrJPzU55uaPvz91rrU7VOQm5AaZV8SZ1cwYE7NdZh0OA6J4I/pub?start=false&loop=false&delayms=60000)        |
 |            | 9:30-10:00  | Introduction to computational models on decision making |      Carlos       |         *coming soon*     |
 |            | 10:00-11:00 | Drift-diffusion models                       |       Mehdi      |        *coming soon*      |
 |            | 11:00-11:30 | Coffee break                                 |             |              |
