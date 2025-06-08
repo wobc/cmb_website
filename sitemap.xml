@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://wobc.github.io/cmb_website/index.html</loc>
-    <lastmod>2025-06-08T13:54:23.201Z</lastmod>
-  </url>
-  <url>
     <loc>https://wobc.github.io/cmb_website/speakers.html</loc>
-    <lastmod>2025-06-08T13:54:23.371Z</lastmod>
+    <lastmod>2025-06-08T22:09:04.883Z</lastmod>
   </url>
   <url>
-    <loc>https://wobc.github.io/cmb_website/materials/2025/DDM/code/DDM_Workshop_fitting_contest.html</loc>
-    <lastmod>2025-06-08T13:54:23.342Z</lastmod>
+    <loc>https://wobc.github.io/cmb_website/index.html</loc>
+    <lastmod>2025-06-08T22:09:04.710Z</lastmod>
   </url>
 </urlset>
