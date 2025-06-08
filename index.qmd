@@ -26,7 +26,7 @@ For PhD students from outside Granada, we're offering **100€ travel grants** t
 |            | 9:30-10:00  | Introduction to computational models on decision making |      Carlos       |        <a href="https://docs.google.com/presentation/d/e/2PACX-1vR1whFkkVv90zGiYf6h8NTJohlK7cZJbrJPzU55uaPvz91rrU7VOQm5AaZV8SZ1cwYE7NdZh0OA6J4I/pub?start=false&loop=false&delayms=60000#slide=id.g36137a23613_0_1" target="_blank">Slides</a>    |
 |            | 10:00-11:00 | Drift-diffusion models                       |       Mehdi      |        <a href="" target="_blank">Slides</a> , <a href="https://github.com/wobc/cmb_website/tree/main/materials/2025/DDM/code" target="_blank">Code</a>       |
 |            | 11:00-11:30 | Coffee break                                 |             |              |
-|            | 11:30-13:30 | Hands-on session on drift-diffusion models   |      Mehdi       |          *coming soon*    |
+|            | 11:30-13:30 | Hands-on session on drift-diffusion models   |      Mehdi       |          <a href="" target="_blank">Slides</a> , <a href="https://github.com/wobc/cmb_website/tree/main/materials/2025/DDM/code" target="_blank">Code</a>       |
 |            | 13:30-15:00 | Lunch break                                  |             |              |
 |            | 15:00-15:30 | Introduction to computational models on reinforcement learning (RL) |      Fran       |       *coming soon*       |
 |            | 15:30-16:30 | RL - Basic concepts                                    |     Francesco        |        <a href="https://github.com/FPupillo/RL_workshop_2nd_ed/blob/master/reinforcement_learning_slides.pdf" target="_blank">Slides</a> , <a href="https://github.com/FPupillo/RL_workshop_2nd_ed" target="_blank">Code</a>      |
