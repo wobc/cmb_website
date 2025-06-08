@@ -1,0 +1,152 @@
+---
+title: "Double update model"
+author: "Francesco Pupillo"
+date: "`r format(Sys.time(), '%B %e, %Y')`"
+output:
+  md_document:
+    variant: markdown_github
+    toc: yes
+    number_sections: true
+    toc_depth: 3
+---
+
+Get some handy function and package first
+```{r}
+rm(list=ls())
+
+library(dplyr)
+library(ggplot2)
+library(gridExtra) # for plotting multiple graphs
+library(reshape2)
+
+source("helper_functions/softmax.R")
+source("helper_functions/chooseBinomial.R")
+
+```
+
+Define parameters and data structure
+```{r instrumental simulate, echo=TRUE}
+set.seed(12345)
+
+# define parameters
+nTrials<-20
+p_red<-0.80 # probability of red slot to be the winner
+alpha<-0.20
+beta<-2
+
+# first create a data structure
+sim_data<-data.frame("t" = 1:nTrials)
+                    
+sim_data$win <- sample(c("red", "yellow"), size = nTrials, prob = c(p_red, 1-p_red),
+                        replace =T)
+                      
+head(sim_data)
+
+```
+
+Modify the following code to simulate a dual-learning rate model, which
+estimates two different learning rates according to whether the prediction error
+is positive or negative
+
+```{R}
+simulate_RW_DU<-function( df, alphapos,alphaneg, beta){
+  #----------------------------------------------------------------------------#
+  # Simulate RW without action. This function takes the reward and applies
+  # Rescorla-Wagner model to create expected values on each trial and prediction
+  # Error
+  #     INPUTS: df - a dataframe with the structure of the env
+  #             alphapos - positive learning rate
+  #             lphaneg - negative leawrning rate
+  #     OUTPUTS: a dataframe with choice probabilities and rewards
+  #----------------------------------------------------------------------------#
+  
+  # we have a red and a yellow slot
+  slots<-c("red", "yellow")
+  
+  # Initialize Qs and choice p
+  for (i in (slots)){
+    df[[paste0("Q", i)]]<-0.5
+    df[[paste0("p", i)]]<-NA
+  }
+  
+  # Initialize the choice
+  df$choice_slot<-NA
+  
+  # initialize the reward
+  df$r<-NA
+  
+  # create an empty row at the end
+  df[nrow(df)+1, ]<-NA
+  
+  # loop through the trials
+  for(t in 1:(nrow(df)-1)){
+    
+    # get the expected values
+    Q <-df[t, c("Qred", "Qyellow")]
+    
+    # choice probability through softmax
+    cp<-softmax(Q , beta = beta)
+    
+    # make the choice
+    choice<-chooseBinomial(cp)
+    
+    # convert it into a slot
+    df$choice_slot[t]<-ifelse(choice==1, "red", "yellow")
+    
+    # generate the reward
+    df$r[t]<-ifelse(df$choice_slot[t]==df$win[t], 1, 0)
+    
+    # compute prediction error
+    df$Delta[t]<- as.numeric(df$r[t]-Q[choice])
+    
+    #--------------------------------------------------------------------------#
+    # here yoou should make the LE dependent on the PE - alphapos and alphaneg
+    
+    
+    
+    #--------------------------------------------------------------------------#
+
+    # Update the expected Values
+    Q[choice]<-Q[choice]+ alpha*df$Delta[t]
+    
+    # assign the values to the dataframe
+    df[t+1, c("Qred", "Qyellow")]<-Q
+    df[t, c("pred", "pyellow")]<-cp
+    
+    
+  }
+  
+  return(df)
+}
+
+
+
+```
+
+Now simulate and plot
+```{R}
+# simulate the data using the function that you created
+simulated<-simulate_RW(df = sim_data, alphapos = , alphaneg = , beta =  )
+
+
+#plot
+ggplot(simulated, aes(x = t))+
+  geom_line(aes(y=pred, color = "pRed"), size = 1.5 )+
+  geom_line(aes(y=pyellow, color = "pYellow"), size = 1.5 )+
+  #geom_line(aes(y=Delta, color = "Delta"), size = 1.5)+
+  xlab("trials")+
+  ylab("")+
+  #geom_text(data = data.frame(br =r), aes(x = br, label = br, y = 7.75),
+    #        size = 4, col = 'grey30') +
+  scale_x_continuous(breaks = seq(1:nTrials),
+   sec.axis = sec_axis(name = "r",~. ,breaks = simulated$t, labels =simulated$r))+
+    scale_color_manual(
+      name = "",
+      values = c("pRed" = "darkred","pYellow" = "darkorange" ))+
+   geom_hline(yintercept=p_red, linetype="dashed")+
+  ylim(0,1)
+  
+
+```
+
+
