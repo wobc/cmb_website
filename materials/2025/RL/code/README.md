@@ -1,4 +1,7 @@
 # Reinforcement_learning_workshop
+
+To download: https://github.com/FPupillo/RL_workshop_2nd_ed/archive/refs/heads/master.zip
+
 This is an introduction to reinforcement learning of choice data. The material of this repository
 has been used for a workshop at the University of Granada on the 9th of June 2025. 
 The workshop is divided into two parts: basic concepts and model fitting. 
